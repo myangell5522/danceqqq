@@ -178,30 +178,30 @@
         <circle cx="48" cy="-4" r="3" fill="#5EEAD4" opacity="0.9"/>
         <text x="62" y="0" fill="#5EEAD4" font-size="12" font-weight="600">AngellUi</text>
         <text x="196" y="0" fill="#E8EEF7" font-size="12">24edew</text>
-        <text x="860" y="0" text-anchor="end" fill="#8B95A8" font-size="11">7h ago</text>
+        <text x="860" y="0" text-anchor="end" fill="#8B95A8" font-size="11">10h ago</text>
       </g>
       <g transform="translate(0, 480)">
         <circle cx="48" cy="-4" r="3" fill="#5EEAD4" opacity="0.9"/>
         <text x="62" y="0" fill="#5EEAD4" font-size="12" font-weight="600">AngellUi</text>
         <text x="196" y="0" fill="#E8EEF7" font-size="12">Initial commit</text>
-        <text x="860" y="0" text-anchor="end" fill="#8B95A8" font-size="11">8h ago</text>
+        <text x="860" y="0" text-anchor="end" fill="#8B95A8" font-size="11">10h ago</text>
       </g>
       <g transform="translate(0, 500)">
         <circle cx="48" cy="-4" r="3" fill="#5EEAD4" opacity="0.9"/>
         <text x="62" y="0" fill="#5EEAD4" font-size="12" font-weight="600">DieWithASmile</text>
         <text x="196" y="0" fill="#E8EEF7" font-size="12">243rdfewcs</text>
-        <text x="860" y="0" text-anchor="end" fill="#8B95A8" font-size="11">2d ago</text>
+        <text x="860" y="0" text-anchor="end" fill="#8B95A8" font-size="11">3d ago</text>
       </g>
       <g transform="translate(0, 520)">
         <circle cx="48" cy="-4" r="3" fill="#5EEAD4" opacity="0.9"/>
         <text x="62" y="0" fill="#5EEAD4" font-size="12" font-weight="600">DieWithASmile</text>
         <text x="196" y="0" fill="#E8EEF7" font-size="12">12edwdwadwa</text>
-        <text x="860" y="0" text-anchor="end" fill="#8B95A8" font-size="11">2d ago</text>
+        <text x="860" y="0" text-anchor="end" fill="#8B95A8" font-size="11">3d ago</text>
       </g>
       <g transform="translate(0, 540)">
         <circle cx="48" cy="-4" r="3" fill="#5EEAD4" opacity="0.9"/>
         <text x="62" y="0" fill="#5EEAD4" font-size="12" font-weight="600">DieWithASmile</text>
         <text x="196" y="0" fill="#E8EEF7" font-size="12">1342rdfewdcs</text>
-        <text x="860" y="0" text-anchor="end" fill="#8B95A8" font-size="11">2d ago</text>
+        <text x="860" y="0" text-anchor="end" fill="#8B95A8" font-size="11">3d ago</text>
       </g></g>
 </svg>
